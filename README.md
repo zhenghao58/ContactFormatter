@@ -9,7 +9,7 @@ Firstname, Lastname, 10013, 646 111 0101, Green**
 ###Output
 The program outputs consistently formatted strings of the format:  
 Firstname Lastname  
-Phone Number: (703) 742-0996 
+Phone Number: (703) 742-0996  
 Zip Code: 10013  
 Color: Blue  
 The output should be sorted in ascending alphabetical order by (last name, first name).
